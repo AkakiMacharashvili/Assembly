@@ -113,14 +113,5 @@ public class prefixSuffixProblem {
         return reconstructedGenome;
     }
 
-//    public static void main(String[] args) {
-//        String input = "GATCACAGGTCTATCACCCTATTAACCACTCACGGGAGCTCTCCATGCATTTGGTATTTTCGTCTGGGGGGTGTGCACGCGATAGCATTGCGAGACGCTGGAGCCGGAGCACCCTATGTCGCAGTATCTGTCTTTGATTCCTGCCTCATTCTATTATTTATCGCACCTACGTTCAATATTACAGGCGAACATACCTACTAAAGTGTGTTAATTAATTAATGCTTGTAGGACATAATAATAACAATTGAAT";
-//        prefixSuffixProblem prefixSuffixProblem = new prefixSuffixProblem(4, input);
-//        StringBuilder inp = new StringBuilder(input);
-//
-////        System.out.println(prefixSuffixProblem.doWork());
-//        if(inp.toString().equals(prefixSuffixProblem.doWork().toString())){
-//            System.out.println("I am happy...");
-//        }
-//    }
+
 }
